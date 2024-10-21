@@ -1,0 +1,1 @@
+const diskPlayImage = 'assets/images/disk_play.png';

@@ -1,0 +1,8 @@
+{
+  "appTitle": "Itunes Search App",
+  "bottomNavList": "List",
+  "bottomNavHistory": "History",
+  "errorSearchTermTooShort": "Input at least 4 character to search",
+  "errorNetwork": "Network problem, please check your network",
+  "errorGeneric": "Unknown error, please contact us"
+}

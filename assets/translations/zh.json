@@ -1,0 +1,8 @@
+{
+  "appTitle": "Itunes 搜尋 APP",
+  "bottomNavList": "列表",
+  "bottomNavHistory": "歷史",
+  "errorSearchTermTooShort": "輸入最少4個字",
+  "errorNetwork": "網路發生問題, 請檢查",
+  "errorGeneric": "發生錯誤, 請聯絡我們"
+}
